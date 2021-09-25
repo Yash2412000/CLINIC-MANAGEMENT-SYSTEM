@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Avinash
+ *
  */
 public class Searchpatient extends javax.swing.JFrame {
 
