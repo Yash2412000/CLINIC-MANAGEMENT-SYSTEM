@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Avinash
+ * 
  */
 public class Addpatient extends javax.swing.JFrame {
 
