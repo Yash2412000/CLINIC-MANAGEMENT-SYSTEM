@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Avinash
+ * 
  */
 public class DoctorActivity extends javax.swing.JFrame {
 
