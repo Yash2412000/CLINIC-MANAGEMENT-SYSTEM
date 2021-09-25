@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Avinash
+ * 
  */
 public class AdminActivity extends javax.swing.JFrame {
 
