@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Avinash
+ * 
  */
 public class Adddoctor extends javax.swing.JFrame {
 
@@ -51,12 +51,12 @@ public class Adddoctor extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 3, 48)); // NOI18N
         jLabel1.setText("ADD DOCTOR");
+            .addGroup(jPanel1Layout.createSequentialGroup()
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
                 .addGap(362, 362, 362)
                 .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 347, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(593, Short.MAX_VALUE))
